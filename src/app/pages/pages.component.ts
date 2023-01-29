@@ -6,9 +6,10 @@ import { MENU_ITEMS } from './pages-menus';
   selector: 'app-pages',
   template: `
     <app-one-column>
-      <nb-menu [items]="menu"></nb-menu>
+      <nb-menu [items]="menu" autoCollapse="true"></nb-menu>
       <router-outlet></router-outlet>
     </app-one-column>
+
   `,
   styleUrls: ['./pages.component.scss']
 })

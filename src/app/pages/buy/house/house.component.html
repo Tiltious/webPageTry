@@ -1,0 +1,12 @@
+<div class="container">
+    <div *ngFor="let house of houses">
+        <nb-card>
+            <nb-card-header>Τιμή: {{house.price}}</nb-card-header>
+            <nb-card-body>
+                <img src="https://m1.spitogatos.gr/243974406_1600x1200.jpg?v=20130730" alt="">
+            </nb-card-body>
+            <nb-card-footer>{{house.description}} </nb-card-footer>
+        </nb-card>
+    </div>
+    
+</div>
