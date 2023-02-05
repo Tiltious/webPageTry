@@ -1,0 +1,1232 @@
+{
+    "data": [
+      {
+        "id": 9251186,
+        "my_code": null,
+        "category": "land",
+        "subtype": 1,
+        "buy_or_rent": "0",
+        "agent_id": 2691,
+        "sq_meters": 800,
+        "price": 160000,
+        "mainImageURL": null,
+        "uploaded": "2019-12-11 11:29:09",
+        "modified": "2023-02-04 13:15:59",
+        "adType_code": "simple",
+        "adTypeCodes": [
+          
+        ],
+        "published": true,
+        "publishedTSM": true,
+        "publishedBrokerSite": false,
+        "publishedExpertProfile": false,
+        "publishedKathimerini": false,
+        "geography": "Επέκταση (Πολίχνη)",
+        "unreadCount": 0,
+        "baseScore": {
+          "portal": "Spitogatos.gr",
+          "score": 18
+        },
+        "blueKeyBaseScore": {
+          "portal": "Bluekey.gr",
+          "score": 23
+        },
+        "publishingOptions": {
+          "1": null
+        },
+        "propertyPrintability": [
+          
+        ],
+        "currency": "eur",
+        "energyClass": null,
+        "blueKeyGeography": "Πολίχνη",
+        "geographyIds": [
+          291205,
+          2912,
+          109,
+          105101,
+          1
+        ],
+        "agentEmployee_id": 0
+      },
+      {
+        "id": 12695007,
+        "my_code": null,
+        "category": "office",
+        "subtype": 2,
+        "buy_or_rent": "1",
+        "agent_id": 2691,
+        "sq_meters": 70,
+        "price": 280,
+        "mainImageURL": "https://m2.spitogatos.gr/235948861_300x220.jpg?v=20130730",
+        "uploaded": "2022-06-20 13:10:14",
+        "modified": "2023-02-04 13:15:56",
+        "adType_code": "simple",
+        "adTypeCodes": [
+          
+        ],
+        "published": true,
+        "publishedTSM": true,
+        "publishedBrokerSite": false,
+        "publishedExpertProfile": false,
+        "publishedKathimerini": false,
+        "geography": "Κέντρο (Νεάπολη)",
+        "unreadCount": 0,
+        "baseScore": {
+          "portal": "Spitogatos.gr",
+          "score": 28
+        },
+        "blueKeyBaseScore": {
+          "portal": "Bluekey.gr",
+          "score": 32
+        },
+        "publishingOptions": {
+          "1": "2022-10-22 13:59:32"
+        },
+        "propertyPrintability": [
+          
+        ],
+        "currency": "eur",
+        "energyClass": "exemption",
+        "blueKeyGeography": "Νεάπολη",
+        "geographyIds": [
+          207219,
+          2909,
+          109,
+          105101,
+          1
+        ],
+        "agentEmployee_id": 0
+      },
+      {
+        "id": 13121567,
+        "my_code": null,
+        "category": "office",
+        "subtype": 1,
+        "buy_or_rent": "1",
+        "agent_id": 2691,
+        "sq_meters": 60,
+        "price": 450,
+        "mainImageURL": "https://m2.spitogatos.gr/243168634_300x220.jpg?v=20130730",
+        "uploaded": "2022-10-10 13:04:19",
+        "modified": "2023-02-04 13:15:49",
+        "adType_code": "up",
+        "adTypeCodes": [
+          "up"
+        ],
+        "published": true,
+        "publishedTSM": true,
+        "publishedBrokerSite": false,
+        "publishedExpertProfile": false,
+        "publishedKathimerini": false,
+        "geography": "Κέντρο (Πολίχνη)",
+        "unreadCount": 0,
+        "baseScore": {
+          "portal": "Spitogatos.gr",
+          "score": 35
+        },
+        "blueKeyBaseScore": {
+          "portal": "Bluekey.gr",
+          "score": 42
+        },
+        "publishingOptions": {
+          "1": "2022-10-10 13:12:54"
+        },
+        "propertyPrintability": [
+          
+        ],
+        "currency": "eur",
+        "energyClass": "under_issuance",
+        "blueKeyGeography": "Πολίχνη",
+        "geographyIds": [
+          102912,
+          2912,
+          109,
+          105101,
+          1
+        ],
+        "agentEmployee_id": 0
+      },
+      {
+        "id": 10211976,
+        "my_code": null,
+        "category": "house",
+        "subtype": 3,
+        "buy_or_rent": "0",
+        "agent_id": 2691,
+        "sq_meters": 135,
+        "price": 155000,
+        "mainImageURL": "https://m3.spitogatos.gr/198253970_300x220.jpg?v=20130730",
+        "uploaded": "2020-09-21 10:52:41",
+        "modified": "2023-02-04 13:15:45",
+        "adType_code": "simple",
+        "adTypeCodes": [
+          
+        ],
+        "published": true,
+        "publishedTSM": true,
+        "publishedBrokerSite": false,
+        "publishedExpertProfile": false,
+        "publishedKathimerini": false,
+        "geography": "Εξοχή (Χορτιάτης)",
+        "unreadCount": 0,
+        "baseScore": {
+          "portal": "Spitogatos.gr",
+          "score": 41
+        },
+        "blueKeyBaseScore": {
+          "portal": "Bluekey.gr",
+          "score": 46
+        },
+        "publishingOptions": {
+          "1": "2020-09-21 10:52:42"
+        },
+        "propertyPrintability": [
+          
+        ],
+        "currency": "eur",
+        "energyClass": "under_issuance",
+        "blueKeyGeography": "Χορτιάτης",
+        "geographyIds": [
+          110308,
+          2917,
+          109,
+          105101,
+          1
+        ],
+        "agentEmployee_id": 0
+      },
+      {
+        "id": 9043033,
+        "my_code": null,
+        "category": "office",
+        "subtype": 2,
+        "buy_or_rent": "0",
+        "agent_id": 2691,
+        "sq_meters": 115,
+        "price": 45000,
+        "mainImageURL": null,
+        "uploaded": "2019-10-10 13:56:52",
+        "modified": "2023-02-04 13:15:38",
+        "adType_code": "simple",
+        "adTypeCodes": [
+          
+        ],
+        "published": true,
+        "publishedTSM": true,
+        "publishedBrokerSite": false,
+        "publishedExpertProfile": false,
+        "publishedKathimerini": false,
+        "geography": "Κέντρο (Πολίχνη)",
+        "unreadCount": 0,
+        "baseScore": {
+          "portal": "Spitogatos.gr",
+          "score": 22
+        },
+        "blueKeyBaseScore": {
+          "portal": "Bluekey.gr",
+          "score": 25
+        },
+        "publishingOptions": {
+          "1": "2020-12-22 12:03:10"
+        },
+        "propertyPrintability": [
+          
+        ],
+        "currency": "eur",
+        "energyClass": "under_issuance",
+        "blueKeyGeography": "Πολίχνη",
+        "geographyIds": [
+          102912,
+          2912,
+          109,
+          105101,
+          1
+        ],
+        "agentEmployee_id": 0
+      },
+      {
+        "id": 12548629,
+        "my_code": null,
+        "category": "office",
+        "subtype": 2,
+        "buy_or_rent": "0",
+        "agent_id": 2691,
+        "sq_meters": 61,
+        "price": 70000,
+        "mainImageURL": null,
+        "uploaded": "2022-05-13 14:33:21",
+        "modified": "2023-02-04 13:15:34",
+        "adType_code": "simple",
+        "adTypeCodes": [
+          
+        ],
+        "published": true,
+        "publishedTSM": true,
+        "publishedBrokerSite": false,
+        "publishedExpertProfile": false,
+        "publishedKathimerini": false,
+        "geography": "Κέντρο (Πολίχνη)",
+        "unreadCount": 0,
+        "baseScore": {
+          "portal": "Spitogatos.gr",
+          "score": 23
+        },
+        "blueKeyBaseScore": {
+          "portal": "Bluekey.gr",
+          "score": 26
+        },
+        "publishingOptions": {
+          "1": "2022-05-13 14:39:08"
+        },
+        "propertyPrintability": [
+          
+        ],
+        "currency": "eur",
+        "energyClass": "b",
+        "blueKeyGeography": "Πολίχνη",
+        "geographyIds": [
+          102912,
+          2912,
+          109,
+          105101,
+          1
+        ],
+        "agentEmployee_id": 0
+      },
+      {
+        "id": 12955418,
+        "my_code": null,
+        "category": "land",
+        "subtype": 1,
+        "buy_or_rent": "0",
+        "agent_id": 2691,
+        "sq_meters": 176,
+        "price": 55000,
+        "mainImageURL": null,
+        "uploaded": "2022-08-31 15:37:55",
+        "modified": "2023-02-04 13:15:26",
+        "adType_code": "simple",
+        "adTypeCodes": [
+          
+        ],
+        "published": true,
+        "publishedTSM": true,
+        "publishedBrokerSite": false,
+        "publishedExpertProfile": false,
+        "publishedKathimerini": false,
+        "geography": "Μετέωρα (Πολίχνη)",
+        "unreadCount": 0,
+        "baseScore": {
+          "portal": "Spitogatos.gr",
+          "score": 26
+        },
+        "blueKeyBaseScore": {
+          "portal": "Bluekey.gr",
+          "score": 26
+        },
+        "publishingOptions": {
+          "1": "2022-08-31 15:43:30"
+        },
+        "propertyPrintability": [
+          
+        ],
+        "currency": "eur",
+        "energyClass": null,
+        "blueKeyGeography": "Πολίχνη",
+        "geographyIds": [
+          110261,
+          2912,
+          109,
+          105101,
+          1
+        ],
+        "agentEmployee_id": 0
+      },
+      {
+        "id": 12941803,
+        "my_code": null,
+        "category": "house",
+        "subtype": 1,
+        "buy_or_rent": "0",
+        "agent_id": 2691,
+        "sq_meters": 77,
+        "price": 60000,
+        "mainImageURL": "https://m3.spitogatos.gr/240578138_300x220.jpg?v=20130730",
+        "uploaded": "2022-08-27 20:20:34",
+        "modified": "2023-02-04 13:15:22",
+        "adType_code": "simple",
+        "adTypeCodes": [
+          
+        ],
+        "published": true,
+        "publishedTSM": true,
+        "publishedBrokerSite": false,
+        "publishedExpertProfile": false,
+        "publishedKathimerini": false,
+        "geography": "Κέντρο (Νεάπολη)",
+        "unreadCount": 0,
+        "baseScore": {
+          "portal": "Spitogatos.gr",
+          "score": 28
+        },
+        "blueKeyBaseScore": {
+          "portal": "Bluekey.gr",
+          "score": 33
+        },
+        "publishingOptions": {
+          "1": "2022-08-31 15:33:36"
+        },
+        "propertyPrintability": [
+          
+        ],
+        "currency": "eur",
+        "energyClass": "under_issuance",
+        "blueKeyGeography": "Νεάπολη",
+        "geographyIds": [
+          207219,
+          2909,
+          109,
+          105101,
+          1
+        ],
+        "agentEmployee_id": 0
+      },
+      {
+        "id": 9775520,
+        "my_code": null,
+        "category": "land",
+        "subtype": 1,
+        "buy_or_rent": "0",
+        "agent_id": 2691,
+        "sq_meters": 600,
+        "price": 130000,
+        "mainImageURL": null,
+        "uploaded": "2020-06-03 10:35:42",
+        "modified": "2023-02-04 13:15:11",
+        "adType_code": "simple",
+        "adTypeCodes": [
+          
+        ],
+        "published": true,
+        "publishedTSM": true,
+        "publishedBrokerSite": false,
+        "publishedExpertProfile": false,
+        "publishedKathimerini": false,
+        "geography": "Επέκταση (Πολίχνη)",
+        "unreadCount": 0,
+        "baseScore": {
+          "portal": "Spitogatos.gr",
+          "score": 18
+        },
+        "blueKeyBaseScore": {
+          "portal": "Bluekey.gr",
+          "score": 23
+        },
+        "publishingOptions": {
+          "1": null
+        },
+        "propertyPrintability": [
+          
+        ],
+        "currency": "eur",
+        "energyClass": null,
+        "blueKeyGeography": "Πολίχνη",
+        "geographyIds": [
+          291205,
+          2912,
+          109,
+          105101,
+          1
+        ],
+        "agentEmployee_id": 0
+      },
+      {
+        "id": 13347003,
+        "my_code": null,
+        "category": "house",
+        "subtype": 4,
+        "buy_or_rent": "0",
+        "agent_id": 2691,
+        "sq_meters": 60,
+        "price": 55000,
+        "mainImageURL": null,
+        "uploaded": "2022-12-02 14:03:34",
+        "modified": "2023-02-04 13:15:08",
+        "adType_code": "simple",
+        "adTypeCodes": [
+          
+        ],
+        "published": true,
+        "publishedTSM": true,
+        "publishedBrokerSite": false,
+        "publishedExpertProfile": false,
+        "publishedKathimerini": false,
+        "geography": "Μετέωρα (Πολίχνη)",
+        "unreadCount": 0,
+        "baseScore": {
+          "portal": "Spitogatos.gr",
+          "score": 24
+        },
+        "blueKeyBaseScore": {
+          "portal": "Bluekey.gr",
+          "score": 29
+        },
+        "publishingOptions": {
+          "1": "2022-12-02 14:08:53"
+        },
+        "propertyPrintability": [
+          
+        ],
+        "currency": "eur",
+        "energyClass": "under_issuance",
+        "blueKeyGeography": "Πολίχνη",
+        "geographyIds": [
+          110261,
+          2912,
+          109,
+          105101,
+          1
+        ],
+        "agentEmployee_id": 0
+      },
+      {
+        "id": 13472431,
+        "my_code": null,
+        "category": "house",
+        "subtype": 1,
+        "buy_or_rent": "1",
+        "agent_id": 2691,
+        "sq_meters": 73,
+        "price": 400,
+        "mainImageURL": "https://m3.spitogatos.gr/248754461_300x220.jpg?v=20130730",
+        "uploaded": "2023-01-10 21:27:40",
+        "modified": "2023-02-04 13:15:05",
+        "adType_code": "up",
+        "adTypeCodes": [
+          "up"
+        ],
+        "published": true,
+        "publishedTSM": true,
+        "publishedBrokerSite": false,
+        "publishedExpertProfile": false,
+        "publishedKathimerini": false,
+        "geography": "Κέντρο (Πολίχνη)",
+        "unreadCount": 0,
+        "baseScore": {
+          "portal": "Spitogatos.gr",
+          "score": 41
+        },
+        "blueKeyBaseScore": {
+          "portal": "Bluekey.gr",
+          "score": 47
+        },
+        "publishingOptions": {
+          "1": "2023-01-10 21:39:55"
+        },
+        "propertyPrintability": [
+          
+        ],
+        "currency": "eur",
+        "energyClass": "under_issuance",
+        "blueKeyGeography": "Πολίχνη",
+        "geographyIds": [
+          102912,
+          2912,
+          109,
+          105101,
+          1
+        ],
+        "agentEmployee_id": 0
+      },
+      {
+        "id": 13161668,
+        "my_code": null,
+        "category": "land",
+        "subtype": 1,
+        "buy_or_rent": "0",
+        "agent_id": 2691,
+        "sq_meters": 166,
+        "price": 60000,
+        "mainImageURL": null,
+        "uploaded": "2022-10-18 17:50:41",
+        "modified": "2023-02-04 13:15:00",
+        "adType_code": "simple",
+        "adTypeCodes": [
+          
+        ],
+        "published": true,
+        "publishedTSM": true,
+        "publishedBrokerSite": false,
+        "publishedExpertProfile": false,
+        "publishedKathimerini": false,
+        "geography": "Κέντρο (Ελευθέριο-Κορδελιό)",
+        "unreadCount": 0,
+        "baseScore": {
+          "portal": "Spitogatos.gr",
+          "score": 20
+        },
+        "blueKeyBaseScore": {
+          "portal": "Bluekey.gr",
+          "score": 22
+        },
+        "publishingOptions": {
+          "1": "2022-10-18 18:01:03"
+        },
+        "propertyPrintability": [
+          
+        ],
+        "currency": "eur",
+        "energyClass": null,
+        "blueKeyGeography": "Ελευθέριο-Κορδελιό",
+        "geographyIds": [
+          102902,
+          2902,
+          109,
+          105101,
+          1
+        ],
+        "agentEmployee_id": 0
+      },
+      {
+        "id": 12209210,
+        "my_code": null,
+        "category": "land",
+        "subtype": 1,
+        "buy_or_rent": "0",
+        "agent_id": 2691,
+        "sq_meters": 100,
+        "price": 33000,
+        "mainImageURL": null,
+        "uploaded": "2022-03-01 11:55:52",
+        "modified": "2023-02-04 13:14:57",
+        "adType_code": "simple",
+        "adTypeCodes": [
+          
+        ],
+        "published": true,
+        "publishedTSM": true,
+        "publishedBrokerSite": false,
+        "publishedExpertProfile": false,
+        "publishedKathimerini": false,
+        "geography": "Κέντρο (Πολίχνη)",
+        "unreadCount": 0,
+        "baseScore": {
+          "portal": "Spitogatos.gr",
+          "score": 31
+        },
+        "blueKeyBaseScore": {
+          "portal": "Bluekey.gr",
+          "score": 28
+        },
+        "publishingOptions": {
+          "1": "2022-03-09 10:07:19"
+        },
+        "propertyPrintability": [
+          
+        ],
+        "currency": "eur",
+        "energyClass": null,
+        "blueKeyGeography": "Πολίχνη",
+        "geographyIds": [
+          102912,
+          2912,
+          109,
+          105101,
+          1
+        ],
+        "agentEmployee_id": 0
+      },
+      {
+        "id": 13435195,
+        "my_code": null,
+        "category": "house",
+        "subtype": 1,
+        "buy_or_rent": "1",
+        "agent_id": 2691,
+        "sq_meters": 60,
+        "price": 280,
+        "mainImageURL": "https://m3.spitogatos.gr/248187386_300x220.jpg?v=20130730",
+        "uploaded": "2022-12-28 10:53:58",
+        "modified": "2023-02-04 13:14:54",
+        "adType_code": "simple",
+        "adTypeCodes": [
+          
+        ],
+        "published": true,
+        "publishedTSM": true,
+        "publishedBrokerSite": false,
+        "publishedExpertProfile": false,
+        "publishedKathimerini": false,
+        "geography": "Κέντρο (Πολίχνη)",
+        "unreadCount": 0,
+        "baseScore": {
+          "portal": "Spitogatos.gr",
+          "score": 34
+        },
+        "blueKeyBaseScore": {
+          "portal": "Bluekey.gr",
+          "score": 38
+        },
+        "publishingOptions": {
+          "1": "2022-12-28 12:27:54"
+        },
+        "propertyPrintability": [
+          
+        ],
+        "currency": "eur",
+        "energyClass": "under_issuance",
+        "blueKeyGeography": "Πολίχνη",
+        "geographyIds": [
+          102912,
+          2912,
+          109,
+          105101,
+          1
+        ],
+        "agentEmployee_id": 0
+      },
+      {
+        "id": 12156880,
+        "my_code": null,
+        "category": "house",
+        "subtype": 4,
+        "buy_or_rent": "0",
+        "agent_id": 2691,
+        "sq_meters": 85,
+        "price": 150000,
+        "mainImageURL": "https://m1.spitogatos.gr/227370780_300x220.jpg?v=20130730",
+        "uploaded": "2022-02-16 20:29:36",
+        "modified": "2023-02-04 13:14:49",
+        "adType_code": "up",
+        "adTypeCodes": [
+          "up"
+        ],
+        "published": true,
+        "publishedTSM": true,
+        "publishedBrokerSite": false,
+        "publishedExpertProfile": false,
+        "publishedKathimerini": false,
+        "geography": "Κέντρο (Πολίχνη)",
+        "unreadCount": 0,
+        "baseScore": {
+          "portal": "Spitogatos.gr",
+          "score": 50
+        },
+        "blueKeyBaseScore": {
+          "portal": "Bluekey.gr",
+          "score": 52
+        },
+        "publishingOptions": {
+          "1": "2022-02-16 22:14:03"
+        },
+        "propertyPrintability": [
+          
+        ],
+        "currency": "eur",
+        "energyClass": "under_issuance",
+        "blueKeyGeography": "Πολίχνη",
+        "geographyIds": [
+          102912,
+          2912,
+          109,
+          105101,
+          1
+        ],
+        "agentEmployee_id": 0
+      },
+      {
+        "id": 9856681,
+        "my_code": null,
+        "category": "office",
+        "subtype": 2,
+        "buy_or_rent": "1",
+        "agent_id": 2691,
+        "sq_meters": 100,
+        "price": 800,
+        "mainImageURL": null,
+        "uploaded": "2020-06-24 12:31:41",
+        "modified": "2023-02-04 13:14:45",
+        "adType_code": "simple",
+        "adTypeCodes": [
+          
+        ],
+        "published": true,
+        "publishedTSM": true,
+        "publishedBrokerSite": false,
+        "publishedExpertProfile": false,
+        "publishedKathimerini": false,
+        "geography": "Κέντρο (Πολίχνη)",
+        "unreadCount": 0,
+        "baseScore": {
+          "portal": "Spitogatos.gr",
+          "score": 21
+        },
+        "blueKeyBaseScore": {
+          "portal": "Bluekey.gr",
+          "score": 25
+        },
+        "publishingOptions": {
+          "1": null
+        },
+        "propertyPrintability": [
+          
+        ],
+        "currency": "eur",
+        "energyClass": "under_issuance",
+        "blueKeyGeography": "Πολίχνη",
+        "geographyIds": [
+          102912,
+          2912,
+          109,
+          105101,
+          1
+        ],
+        "agentEmployee_id": 0
+      },
+      {
+        "id": 8241193,
+        "my_code": null,
+        "category": "office",
+        "subtype": 3,
+        "buy_or_rent": "1",
+        "agent_id": 2691,
+        "sq_meters": 130,
+        "price": 200,
+        "mainImageURL": null,
+        "uploaded": "2019-04-13 19:40:59",
+        "modified": "2023-02-04 13:14:40",
+        "adType_code": "simple",
+        "adTypeCodes": [
+          
+        ],
+        "published": true,
+        "publishedTSM": true,
+        "publishedBrokerSite": false,
+        "publishedExpertProfile": false,
+        "publishedKathimerini": false,
+        "geography": "Κέντρο (Πολίχνη)",
+        "unreadCount": 0,
+        "baseScore": {
+          "portal": "Spitogatos.gr",
+          "score": 20
+        },
+        "blueKeyBaseScore": {
+          "portal": "Bluekey.gr",
+          "score": 24
+        },
+        "publishingOptions": {
+          "1": "2022-09-26 18:59:31"
+        },
+        "propertyPrintability": [
+          
+        ],
+        "currency": "eur",
+        "energyClass": "under_issuance",
+        "blueKeyGeography": "Πολίχνη",
+        "geographyIds": [
+          102912,
+          2912,
+          109,
+          105101,
+          1
+        ],
+        "agentEmployee_id": 0
+      },
+      {
+        "id": 13178504,
+        "my_code": null,
+        "category": "house",
+        "subtype": 1,
+        "buy_or_rent": "0",
+        "agent_id": 2691,
+        "sq_meters": 80,
+        "price": 85000,
+        "mainImageURL": "https://m1.spitogatos.gr/243974406_300x220.jpg?v=20130730",
+        "uploaded": "2022-10-22 08:29:44",
+        "modified": "2023-02-04 13:14:37",
+        "adType_code": "simple",
+        "adTypeCodes": [
+          
+        ],
+        "published": true,
+        "publishedTSM": true,
+        "publishedBrokerSite": false,
+        "publishedExpertProfile": false,
+        "publishedKathimerini": false,
+        "geography": "Κέντρο (Πολίχνη)",
+        "unreadCount": 0,
+        "baseScore": {
+          "portal": "Spitogatos.gr",
+          "score": 39
+        },
+        "blueKeyBaseScore": {
+          "portal": "Bluekey.gr",
+          "score": 43
+        },
+        "publishingOptions": {
+          "1": "2022-10-22 08:37:46"
+        },
+        "propertyPrintability": [
+          
+        ],
+        "currency": "eur",
+        "energyClass": "under_issuance",
+        "blueKeyGeography": "Πολίχνη",
+        "geographyIds": [
+          102912,
+          2912,
+          109,
+          105101,
+          1
+        ],
+        "agentEmployee_id": 0
+      },
+      {
+        "id": 13494713,
+        "my_code": null,
+        "category": "house",
+        "subtype": 1,
+        "buy_or_rent": "0",
+        "agent_id": 2691,
+        "sq_meters": 73,
+        "price": 100000,
+        "mainImageURL": "https://m3.spitogatos.gr/249201665_300x220.jpg?v=20130730",
+        "uploaded": "2023-01-15 20:53:03",
+        "modified": "2023-02-04 13:14:33",
+        "adType_code": "simple",
+        "adTypeCodes": [
+          
+        ],
+        "published": true,
+        "publishedTSM": true,
+        "publishedBrokerSite": false,
+        "publishedExpertProfile": false,
+        "publishedKathimerini": false,
+        "geography": "Κέντρο (Πολίχνη)",
+        "unreadCount": 0,
+        "baseScore": {
+          "portal": "Spitogatos.gr",
+          "score": 41
+        },
+        "blueKeyBaseScore": {
+          "portal": "Bluekey.gr",
+          "score": 45
+        },
+        "publishingOptions": {
+          "1": "2023-01-15 20:58:22"
+        },
+        "propertyPrintability": [
+          
+        ],
+        "currency": "eur",
+        "energyClass": "under_issuance",
+        "blueKeyGeography": "Πολίχνη",
+        "geographyIds": [
+          102912,
+          2912,
+          109,
+          105101,
+          1
+        ],
+        "agentEmployee_id": 0
+      },
+      {
+        "id": 12955304,
+        "my_code": null,
+        "category": "house",
+        "subtype": 1,
+        "buy_or_rent": "0",
+        "agent_id": 2691,
+        "sq_meters": 90,
+        "price": 90000,
+        "mainImageURL": "https://m1.spitogatos.gr/240578454_300x220.jpg?v=20130730",
+        "uploaded": "2022-08-31 15:13:57",
+        "modified": "2023-02-04 13:14:29",
+        "adType_code": "simple",
+        "adTypeCodes": [
+          
+        ],
+        "published": true,
+        "publishedTSM": true,
+        "publishedBrokerSite": false,
+        "publishedExpertProfile": false,
+        "publishedKathimerini": false,
+        "geography": "Κέντρο (Νεάπολη)",
+        "unreadCount": 0,
+        "baseScore": {
+          "portal": "Spitogatos.gr",
+          "score": 44
+        },
+        "blueKeyBaseScore": {
+          "portal": "Bluekey.gr",
+          "score": 48
+        },
+        "publishingOptions": {
+          "1": "2022-08-31 15:33:59"
+        },
+        "propertyPrintability": [
+          
+        ],
+        "currency": "eur",
+        "energyClass": "b",
+        "blueKeyGeography": "Νεάπολη",
+        "geographyIds": [
+          207219,
+          2909,
+          109,
+          105101,
+          1
+        ],
+        "agentEmployee_id": 0
+      },
+      {
+        "id": 13267214,
+        "my_code": null,
+        "category": "house",
+        "subtype": 4,
+        "buy_or_rent": "1",
+        "agent_id": 2691,
+        "sq_meters": 55,
+        "price": 350,
+        "mainImageURL": "https://m3.spitogatos.gr/245276210_300x220.jpg?v=20130730",
+        "uploaded": "2022-11-12 08:17:17",
+        "modified": "2023-02-04 13:14:26",
+        "adType_code": "simple",
+        "adTypeCodes": [
+          
+        ],
+        "published": true,
+        "publishedTSM": true,
+        "publishedBrokerSite": false,
+        "publishedExpertProfile": false,
+        "publishedKathimerini": false,
+        "geography": "Κέντρο (Πολίχνη)",
+        "unreadCount": 0,
+        "baseScore": {
+          "portal": "Spitogatos.gr",
+          "score": 35
+        },
+        "blueKeyBaseScore": {
+          "portal": "Bluekey.gr",
+          "score": 42
+        },
+        "publishingOptions": {
+          "1": "2022-11-12 08:23:48"
+        },
+        "propertyPrintability": [
+          
+        ],
+        "currency": "eur",
+        "energyClass": "under_issuance",
+        "blueKeyGeography": "Πολίχνη",
+        "geographyIds": [
+          102912,
+          2912,
+          109,
+          105101,
+          1
+        ],
+        "agentEmployee_id": 0
+      },
+      {
+        "id": 12000413,
+        "my_code": null,
+        "category": "land",
+        "subtype": 1,
+        "buy_or_rent": "0",
+        "agent_id": 2691,
+        "sq_meters": 330,
+        "price": 140000,
+        "mainImageURL": null,
+        "uploaded": "2022-01-08 11:43:00",
+        "modified": "2023-02-04 13:14:22",
+        "adType_code": "simple",
+        "adTypeCodes": [
+          
+        ],
+        "published": true,
+        "publishedTSM": true,
+        "publishedBrokerSite": false,
+        "publishedExpertProfile": false,
+        "publishedKathimerini": false,
+        "geography": "Κέντρο (Πολίχνη)",
+        "unreadCount": 0,
+        "baseScore": {
+          "portal": "Spitogatos.gr",
+          "score": 32
+        },
+        "blueKeyBaseScore": {
+          "portal": "Bluekey.gr",
+          "score": 27
+        },
+        "publishingOptions": {
+          "1": "2022-01-08 11:57:50"
+        },
+        "propertyPrintability": [
+          
+        ],
+        "currency": "eur",
+        "energyClass": null,
+        "blueKeyGeography": "Πολίχνη",
+        "geographyIds": [
+          102912,
+          2912,
+          109,
+          105101,
+          1
+        ],
+        "agentEmployee_id": 0
+      },
+      {
+        "id": 13290933,
+        "my_code": null,
+        "category": "house",
+        "subtype": 1,
+        "buy_or_rent": "0",
+        "agent_id": 2691,
+        "sq_meters": 56,
+        "price": 60000,
+        "mainImageURL": "https://m1.spitogatos.gr/245657124_300x220.jpg?v=20130730",
+        "uploaded": "2022-11-18 07:16:50",
+        "modified": "2023-02-04 13:14:18",
+        "adType_code": "simple",
+        "adTypeCodes": [
+          
+        ],
+        "published": true,
+        "publishedTSM": true,
+        "publishedBrokerSite": false,
+        "publishedExpertProfile": false,
+        "publishedKathimerini": false,
+        "geography": "Σταυρούπολη (Θεσσαλονίκη - Περιφ/κοί δήμοι)",
+        "unreadCount": 0,
+        "baseScore": {
+          "portal": "Spitogatos.gr",
+          "score": 42
+        },
+        "blueKeyBaseScore": {
+          "portal": "Bluekey.gr",
+          "score": 46
+        },
+        "publishingOptions": {
+          "1": "2022-11-18 07:23:23"
+        },
+        "propertyPrintability": [
+          
+        ],
+        "currency": "eur",
+        "energyClass": "under_issuance",
+        "blueKeyGeography": "Σταυρούπολη",
+        "geographyIds": [
+          2914,
+          109,
+          105101,
+          1
+        ],
+        "agentEmployee_id": 0
+      },
+      {
+        "id": 11820948,
+        "my_code": null,
+        "category": "office",
+        "subtype": 1,
+        "buy_or_rent": "0",
+        "agent_id": 2691,
+        "sq_meters": 70,
+        "price": 59000,
+        "mainImageURL": "https://m3.spitogatos.gr/222539273_300x220.jpg?v=20130730",
+        "uploaded": "2021-11-11 21:43:46",
+        "modified": "2023-02-04 13:14:15",
+        "adType_code": "simple",
+        "adTypeCodes": [
+          
+        ],
+        "published": true,
+        "publishedTSM": true,
+        "publishedBrokerSite": false,
+        "publishedExpertProfile": false,
+        "publishedKathimerini": false,
+        "geography": "Σταθμός ΟΣΕ (Βαρδάρης - Λαχανόκηποι)",
+        "unreadCount": 0,
+        "baseScore": {
+          "portal": "Spitogatos.gr",
+          "score": 34
+        },
+        "blueKeyBaseScore": {
+          "portal": "Bluekey.gr",
+          "score": 38
+        },
+        "publishingOptions": {
+          "1": "2021-11-11 22:00:47"
+        },
+        "propertyPrintability": [
+          
+        ],
+        "currency": "eur",
+        "energyClass": "under_issuance",
+        "blueKeyGeography": "Βαρδάρης - Λαχανόκηποι",
+        "geographyIds": [
+          2821,
+          499117,
+          108,
+          105101,
+          1
+        ],
+        "agentEmployee_id": 0
+      },
+      {
+        "id": 13161697,
+        "my_code": null,
+        "category": "land",
+        "subtype": 1,
+        "buy_or_rent": "0",
+        "agent_id": 2691,
+        "sq_meters": 280,
+        "price": 98000,
+        "mainImageURL": null,
+        "uploaded": "2022-10-18 18:01:32",
+        "modified": "2023-02-04 13:13:43",
+        "adType_code": "simple",
+        "adTypeCodes": [
+          
+        ],
+        "published": true,
+        "publishedTSM": true,
+        "publishedBrokerSite": false,
+        "publishedExpertProfile": false,
+        "publishedKathimerini": false,
+        "geography": "Κέντρο (Ελευθέριο-Κορδελιό)",
+        "unreadCount": 0,
+        "baseScore": {
+          "portal": "Spitogatos.gr",
+          "score": 19
+        },
+        "blueKeyBaseScore": {
+          "portal": "Bluekey.gr",
+          "score": 22
+        },
+        "publishingOptions": {
+          "1": "2022-10-18 18:05:43"
+        },
+        "propertyPrintability": [
+          
+        ],
+        "currency": "eur",
+        "energyClass": null,
+        "blueKeyGeography": "Ελευθέριο-Κορδελιό",
+        "geographyIds": [
+          102902,
+          2902,
+          109,
+          105101,
+          1
+        ],
+        "agentEmployee_id": 0
+      }
+    ],
+    "totalResults": 88,
+    "perPage": 25,
+    "currentPage": 1,
+    "lastPage": 4
+  }

@@ -18,6 +18,8 @@ import {
 } from '@nebular/theme';
 import { NbEvaIconsModule } from '@nebular/eva-icons';
 import { DEFAULT_THEME } from './styles/theme.default';
+import { LayoutService } from './layouts/layout.service';
+import { RouterModule } from '@angular/router';
 const NB_MODULES = [
   NbLayoutModule,
   NbMenuModule,
@@ -30,6 +32,7 @@ const NB_MODULES = [
   NbSelectModule,
   NbIconModule,
   NbEvaIconsModule,
+  RouterModule
 ];
 const COMPONENTS = [
   HeaderComponent,
@@ -39,7 +42,7 @@ const COMPONENTS = [
 @NgModule({  
   imports: [CommonModule, ...NB_MODULES],
   exports: [CommonModule, ...COMPONENTS],
-  providers:[ThemeModule],
+  providers:[ThemeModule,LayoutService],
   declarations: [...COMPONENTS],
 })
 export class ThemeModule { 

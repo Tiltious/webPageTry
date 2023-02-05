@@ -4,27 +4,25 @@ export class Houses {
     subcategory:String = '';
     price:String;
     area:String;
-    floor:String;
-    elevator:Boolean;
+    floor:String = '';
+    elevator:any = '';
     stages:String = '';
-    bedrooms:String;
-    wc:String;
-    description:String;
+    bedrooms:String = '';
+    wc:String = '';
+    description:String = '';
+    mainloc:String;
+    mainimg:String;
     constructor(
         price:String,
         area:String,
-        floor:String,
-        elevator:Boolean,
-        bedrooms:String,
-        wc:String,
-        description:String
+        category:String,
+        mainloc:String,
+        mainimg:String
     ){
         this.price =price;
         this.area = area;
-        this.floor = floor;
-        this.elevator = elevator;
-        this.bedrooms = bedrooms;
-        this.wc = wc;
-        this.description =description;
+        this.category = category;
+        this.mainloc = mainloc;
+        this.mainimg = mainimg;
     }
 }

@@ -1,5 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { Houses } from '../../shared/houses';
+import { HousesService } from '../../shared/houses.service';
 
 @Component({
   selector: 'app-house',
@@ -8,15 +9,18 @@ import { Houses } from '../../shared/houses';
 })
 export class HouseComponent implements OnInit {
   houses:Houses[]=[];
-  constructor() {
-    const house = new Houses('€85.000','150','3',true,'2','1',"ΠΟΛΙΧΝΗ (κέντρο) Διαμέρισμα 80 τμ. 1ος όροφος, πλήρως ανακαινισμένο, 2 δωμάτια, σαλόνι, χωριστή κουζίνα, γωνιακό, ατομική θέρμανση (φυσικό αέριο)");
-    const house2 = new Houses('€85.000','150','3',true,'2','1',"ΠΟΛΙΧΝΗ (κέντρο) Διαμέρισμα 80 τμ. 1ος όροφος, πλήρως ανακαινισμένο, 2 δωμάτια, σαλόνι, χωριστή κουζίνα, γωνιακό, ατομική θέρμανση (φυσικό αέριο)");
-    this.houses.push(house);
-    this.houses.push(house2);
-    this.houses.push(house2);
+  houses2:Houses[]=[];
+  constructor(private houserv:HousesService) {
    }
 
-  ngOnInit(): void {
+  ngOnInit() {
+    this.houserv.getAllHouses().subscribe((response:any)=>{
+      for(let house of response.data){
+        let mainimg;
+        !!house.mainImageURL?mainimg=house.mainImageURL:mainimg = "assets/missing_photo-medium.jpg";
+        house.buy_or_rent==0&&house.category=='house'?this.houses2.push(new Houses(house.price,house.sq_meters,house.buy_or_rent,house.geography,mainimg)):null
+      }
+    })
   }
 
 }

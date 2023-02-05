@@ -1,22 +1,23 @@
 @import '../../../../themes.scss';
 
 @include nb-install-component() {
-    div.container{
+    .container{
         display: flex;
         flex-wrap: wrap;
         justify-content: space-between;
     }
-    div.container >div{
-        width: 33%;
+    @media (max-width: 768px){
+    .container{
+        justify-content: center;
     }
-    nb-card-body{
-        display: flex;
-        flex-wrap: wrap;    
-        justify-content: center;        
-    }
-    nb-card-body >img{
-        height: 200px;
-        width: 150px;
+    .col-md-4 {
+        img{
+            width: 100%;
+            max-width: 300px;
+        }
+    }}
+    img{
+        width: 100%;
     }
     
 }
