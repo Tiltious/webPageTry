@@ -6,4 +6,10 @@
   .menu-sidebar ::ng-deep .scrollable {
     padding-top: nb-theme(layout-padding-top);
   }
+  nb-layout-column{
+    background-image: url('../../../../assets/homebg1.jpg');
+    width:100%;
+    background-size: contain;
+    background-repeat: no-repeat;
+  }
 }

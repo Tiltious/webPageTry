@@ -4,7 +4,9 @@
   ::ng-deep router-outlet + * {
     display: block;
     animation: fade 1s;
-
+    app-one-column{
+      background-image: url('../../assets/homebg1.jpg');
+    }
     @keyframes fade {
       from {
         opacity: 0;

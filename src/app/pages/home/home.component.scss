@@ -1,0 +1,8 @@
+
+@import '../../../themes.scss';
+
+@include nb-install-component() {
+    #bgimg{
+        width: 100%;
+    }
+}
