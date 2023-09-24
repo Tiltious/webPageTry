@@ -1,0 +1,12 @@
+<div class="">
+    <div class="row">
+        <div [class]="i.layout+' align-items-center'"*ngFor="let i of dashboardComponents">
+            <nb-card class="menu-component ">
+                <nb-card-body class="">
+                    {{i.title}}
+                </nb-card-body>
+            </nb-card>
+        </div>
+        
+    </div>
+</div>

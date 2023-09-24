@@ -8,6 +8,7 @@ import { RentComponent } from './rent/rent.component';
 import { LoansComponent } from './loans/loans.component';
 import { AboutUsComponent } from './about-us/about-us.component';
 import { ContactComponent } from './contact/contact.component';
+import { UserDashboardIdeaComponent } from './user-dashboard-idea/user-dashboard-idea.component';
 
 const routes: Routes = [
   {
@@ -26,6 +27,10 @@ const routes: Routes = [
       {
         path:'sell',
         component:SellComponent
+      },
+      {
+        path:'usDashboard',
+        component:UserDashboardIdeaComponent
       },
       {
         path:'rent',

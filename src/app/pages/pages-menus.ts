@@ -100,4 +100,9 @@ export const MENU_ITEMS: NbMenuItem[] = [
     title: 'Επικοινωνία',
     icon: 'hash-outline',
   },
+  {
+    title: 'Dashboard',
+    link: '/pages/usDashboard',
+    icon: 'hash-outline',
+  },
 ];
